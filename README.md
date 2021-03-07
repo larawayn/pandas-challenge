@@ -79,7 +79,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
- ![Pandas](Image/profitableitems .png) 
+ ![Pandas](Image/profitableitems.png) 
 
 # Conclusions and Observable Trends 
   * Males are more likely to make purchases for the game. This is evident in the Gender Demographics table which shows that 84.03% of all purchases are from males.
