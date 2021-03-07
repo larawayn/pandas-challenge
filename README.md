@@ -1,6 +1,6 @@
 # University of Denver Data Analytics Boot Camp: Python-Pandas Challenge
 
-![Pandas](Image/pandas.JPG)
+![Pandas](image/pandas.JPG)
 
 
 This assignment consists of analyzing data from a video game called "Heroes of Pymoli". The analysis is done using Pandas to create and manipulate data frames looking for valuable information comparing player demographic info and purchase habits.
@@ -79,7 +79,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
- ![Pandas](Image/profitableitems.png) 
+ ![Pandas](Image/profitableitems .png) 
 
 # Conclusions and Observable Trends 
   * Males are more likely to make purchases for the game. This is evident in the Gender Demographics table which shows that 84.03% of all purchases are from males.
