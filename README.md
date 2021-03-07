@@ -1,6 +1,6 @@
 # University of Denver Data Analytics Boot Camp: Python-Pandas Challenge
 
-![Pandas](image/pandas.JPG)
+![Pandas](Image/pandas.png)
 
 
 This assignment consists of analyzing data from a video game called "Heroes of Pymoli". The analysis is done using Pandas to create and manipulate data frames looking for valuable information comparing player demographic info and purchase habits.
